@@ -1,0 +1,19 @@
+h1 {
+  color: #ff0000;
+}
+
+h2 {
+  color: #0000FF;
+}
+
+h3 {
+  color: #00FF00;
+}
+
+em {
+  background-color: #000000;
+  color: #ffffff;
+}
+.fit-picture {
+  width: 250px;
+}
